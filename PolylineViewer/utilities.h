@@ -26,6 +26,8 @@ namespace constants {
 	constexpr double init_bound = 1;
 	// interval for searching algorithm
 	constexpr double interval = 1.0 / 16;
+	// spin control (IDC_SPIN3) scroll step value
+	constexpr double spin_delta = 10;
 }
 
 

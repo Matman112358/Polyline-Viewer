@@ -194,10 +194,7 @@
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="utilities.h" />
-    <ClInclude Include="ZoomButton.h" />
     <ClInclude Include="ZoomDialog.h" />
-    <ClInclude Include="ZoomEdit.h" />
-    <ClInclude Include="ZoomSpin.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ChildView.cpp" />
@@ -218,10 +215,7 @@
     </ClCompile>
     <ClCompile Include="PolylineViewer.cpp" />
     <ClCompile Include="utilities.cpp" />
-    <ClCompile Include="ZoomButton.cpp" />
     <ClCompile Include="ZoomDialog.cpp" />
-    <ClCompile Include="ZoomEdit.cpp" />
-    <ClCompile Include="ZoomSpin.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="PolylineViewer.rc" />
